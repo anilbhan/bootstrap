@@ -1,0 +1,9 @@
+.customeDiv{
+	min-height: 250px;
+	
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+	margin: 1px;
+	padding:2px;
+}

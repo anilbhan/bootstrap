@@ -1,0 +1,14 @@
+.sidebar{
+	min-height: 200px;
+margin: 1px;
+text-align: center;
+background-color: silver;
+}
+.maincontent{
+	min-height: 400px;
+background-color: silver;
+margin: 1px;
+text-align: center;
+
+
+}

@@ -1,0 +1,16 @@
+ul{
+
+}
+li{
+display: inline-block;
+text-decoration: none;
+}
+a{
+	text-decoration: none;
+	padding: 55px;
+font-family: "Candy INC TRIAL Regular";
+}
+a:hover{
+border: 1px solid green;
+
+}

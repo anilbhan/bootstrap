@@ -1,0 +1,25 @@
+
+
+.container{
+	margin-top: 5px;
+}
+.customeDiv{
+	min-height: 250px;
+	
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+}
+
+.space{
+	
+
+	background-color: silver;
+
+}
+p{
+	text-align: justify;
+}
+.glyphicon-book{
+	padding-left: 1px;
+}

@@ -1,0 +1,16 @@
+.custome{
+	background-color: silver;
+	min-height: 250px;
+	text-align: center;
+
+}
+.row.no-gutter {
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.row.no-gutter [class*='col-']:not(:first-child),
+.row.no-gutter [class*='col-']:not(:last-child) {
+  padding-right: 1px;
+  padding-left: 1px;
+}
